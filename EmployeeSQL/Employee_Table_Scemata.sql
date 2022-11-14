@@ -23,7 +23,7 @@ CREATE TABLE "Department_Managers" (
 CREATE TABLE "Employees" (
     "emp_no" int   NOT NULL,
     "emp_title_id" varchar(30)   NOT NULL,
-    "birth_date" varchar(30   NOT NULL,
+    "birth_date" varchar(30)   NOT NULL,
     "first_name" varchar(30)   NOT NULL,
     "last_name" varchar(30)   NOT NULL,
     "sex" varchar(30)   NOT NULL,
