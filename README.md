@@ -1,4 +1,4 @@
-# sql-challenge
+# Employee Data Inquiry
 
 In this project, I designed tables to hold employee data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data. 
 
