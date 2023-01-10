@@ -1,3 +1,6 @@
+#adding DS file
+.DS_Store
+
 postgres.py
 
 # Byte-compiled / optimized / DLL files
