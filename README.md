@@ -1,19 +1,42 @@
-# Employee Data Inquiry
+## Employee Data Inquiry
 
-In this project, I designed tables to hold employee data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data. 
+Analyzes Employee Data using SQL and SQLAlchemy Queries
 
-#### Data Modeling
+## Objectives
 
-I inspected the CSVs and sketched out an ERD of the tables using http://www.quickdatabasediagrams.com.
+### Step 1 - Data Modeling
 
-#### Data Engineering
+* Create an Entity Relationship Diagram using https://www.quickdatabasediagrams.com/
 
-I used the provided information to create a table schema for each of the six CSV files., specifying data types, primary keys, foreign keys, and other constraints. Then, I imported each CSV file into the corresponding SQL table. 
+![](images/Employee_ERD.png)
 
-#### Data Analysis
+### Step 2 - Data Engineering
 
-Then, I completed a list of queries about the data utilizing select statements and joins. 
+* Create a table schema for each of the six CSV files
+    * Specify the data types, primary keys, foreign keys, and other constraints
 
-#### Visualization
+[Table Schema](EmployeeSQL/Queries/Employee_Table_Scemata.sql).
 
-First, I imported the SQL database into Pandas. Then, I created a histogram to visualize the most common salary ranges for employees. Finally, I created a bar chart of average salary by title. 
+### Step 3 - Data Analysis
+
+*  Analzye data using a list of queries about the data utilizing select statements and joins
+
+[Data Queries](EmployeeSQL/Queries/Employee_Queries.sql).
+
+### Step 4 - Data Visualization 
+
+* Import the SQL database into Pandas
+
+![](images/df.png)
+
+* Create a bar chart to visualize the most common salary ranges for employees
+
+![](images/salary_range.png)
+
+* Create a bar chart of average salary by title
+
+![](images/title.png)
+
+---------------------------------------------------
+
+<b>Contact:</b> bronwynmilne64@gmail.com
