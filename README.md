@@ -8,7 +8,7 @@ Analyzes Employee Data using SQL and SQLAlchemy Queries
 
 * Create an Entity Relationship Diagram using https://www.quickdatabasediagrams.com/
 
-![](images/Employee_ERD.png)
+![](EmployeeSQL/images/Employee_ERD.png)
 
 ### Step 2 - Data Engineering
 
@@ -27,15 +27,15 @@ Analyzes Employee Data using SQL and SQLAlchemy Queries
 
 * Import the SQL database into Pandas
 
-![](images/df.png)
+![](EmployeeSQL/images/df.png)
 
 * Create a bar chart to visualize the most common salary ranges for employees
 
-![](images/salary_range.png)
+![](EmployeeSQL/images/salary_range.png)
 
 * Create a bar chart of average salary by title
 
-![](images/title.png)
+![](EmployeeSQL/images/title.png)
 
 ---------------------------------------------------
 
