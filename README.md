@@ -19,7 +19,7 @@ Analyzes Employee Data using SQL and SQLAlchemy Queries
 
 ### Step 3 - Data Analysis
 
-*  Analzye data using a list of queries about the data utilizing select statements and joins
+*  Analyze data using a list of queries about the data utilizing select statements and joins
 
 [Data Queries](EmployeeSQL/Queries/Employee_Queries.sql).
 
